@@ -1,0 +1,8 @@
+# Binarios compilados
+*.exe
+conversor.exe
+
+# Arquivos de log e temporarios
+*.log
+*.tmp
+/scratch/
